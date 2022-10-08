@@ -4,7 +4,7 @@
 
 * 从事 Android 开发多年，自己收藏了很多不错的网站和资源，有时候我在想，能不能把这些年收藏的干货整理出来分享给大家，这个想法已经存在半年的时间，终于在 2022 年的国庆将这件事完成了，我将 Android 开发经常用到的网站进行了汇总，希望能对大家有所帮助，同时也欢迎大家通过提 [issue](https://github.com/getActivity/AndroidIndex/issues/new) 来补充或者纠错，我审核通过之后会放上去，做好一个开源项目需要大家的添砖加瓦，开源是一个互帮互助的过程，没有大家的支持我很难做好它。
 
-## 文档目录
+## 目录
 
 * [Android 相关](#android-相关)
 
@@ -19,6 +19,8 @@
     * [Google 应用商店代下载](#google-应用商店代下载)
 
     * [Android 笔记及面试题](#android-笔记及面试题)
+
+    * [Android 社区网站](#android-社区网站)
 
     * [Android 优秀个人技术博客](#android-优秀个人技术博客)
 
@@ -48,11 +50,17 @@
 
 * [Android Code Search（需要翻墙）](https://cs.android.com/)
 
-* [AndroidXRef](http://androidxref.com/)
+    * [Android Code Search - Android 项目（需要翻墙）](https://cs.android.com/android)
 
-* [AOSPXRef](http://aospxref.com/)
+    * [Android Code Search - AndroidX 项目（需要翻墙）](https://cs.android.com/androidx)
 
-* [Android 社区](https://www.androidos.net.cn/sourcecode)
+    * [Android Code Search - Android Studio 项目（需要翻墙）](https://cs.android.com/android-studio)
+
+* [AndroidXRef（Android 1.6 - Android 9.0）](http://androidxref.com/)
+
+* [AOSPXRef（Android 7.1.2 - Android 13）](http://aospxref.com/)
+
+* [Android 社区（Android 1.6 - Android 10）](https://www.androidos.net.cn/sourcecode)
 
 #### Android 源码下载
 
@@ -66,9 +74,15 @@
 
 #### Android 资源下载
 
+* [Android Studio 最新稳定版下载](https://developer.android.google.cn/studio)
+
+* [Android Studio 最新预览版下载](https://developer.android.google.cn/studio/preview)
+
 * [Android Studio 历史版本下载](https://developer.android.google.cn/studio/archive.html#android-studio)
 
-* [Android NDK 历史版本下载](https://developer.android.google.cn/ndk/downloads)
+* [Android NDK 最新版本下载](https://developer.android.google.cn/ndk/downloads)
+
+* [Android NDK 历史版本下载](https://github.com/android/ndk/wiki/Unsupported-Downloads)
 
 * [Gradle 历史版本下载](https://services.gradle.org/distributions/)
 
@@ -76,13 +90,11 @@
 
 #### Android 云测平台
 
-* [vivo 云测平台](https://vcl.vivo.com.cn/#/machine/picking)
-
 * [OPPO 云测平台](https://open.oppomobile.com/cloudmachine/device/list-plus)
 
-* [华为云调试平台](https://developer.huawei.com/consumer/cn/agconnect/cloud-adjust)
-
 * [三星远程开发测试平台](http://samsung.smarterapps.cn/index.php)
+
+* [vivo 云测平台（需要企业开发者）](https://vcl.vivo.com.cn/#/machine/picking)
 
 * [小米云测平台（需要企业开发者）](https://testit.miui.com/remote)
 
@@ -113,6 +125,20 @@
 * [Android_QA](https://github.com/Omooo/Android_QA)
 
 * [AndroidBookmark](https://github.com/mikaelzero/AndroidBookmark)
+
+#### Android 社区网站
+
+* [掘金](https://juejin.cn/android)
+
+* [掘金酱](https://e.juejin.cn/#/)
+
+* [玩 Android](https://www.wanandroid.com/)
+
+* [CSDN](https://blog.csdn.net/nav/mobile/android)
+
+* [简书](https://www.jianshu.com/techareas/andriod)
+
+* [泡网](https://paonet.com/t/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91)
 
 #### Android 优秀个人技术博客
 
@@ -194,6 +220,8 @@
 
 * [xuyisheng](https://juejin.cn/user/43636194286093/posts)
 
+* [codelang](https://juejin.cn/user/184373682638727/posts)
+
 * [Android轮子哥](https://www.jianshu.com/u/f7bb67d86765)
 
 ## 非 Android 相关
@@ -208,13 +236,15 @@
 
 * [Github Repository PK](https://githubpk.com/pk-repos)
 
-* [Github 全球排行榜](https://wangchujiang.com/github-rank/index.html)
+* [Github 程序员全球排行榜](https://wangchujiang.com/github-rank/index.html)
 
 * [Github Android 国内个人技术排行榜](https://github.com/getActivity/AndroidGithubBoss)
 
 #### 翻译网站
 
-* [Google 翻译](https://translate.google.com.hk/?hl=zh-CN)
+* [Google 翻译（需要翻墙）](https://translate.google.com.hk/?hl=zh-CN)
+
+* [DeepL 翻译器](https://www.deepl.com/translator)
 
 * [Bing 翻译](https://cn.bing.com/translator/)
 
@@ -278,6 +308,8 @@
 
 * [文字转语音](https://app.xunjiepdf.com/text2voice/)
 
+* [Html MarkDown 互转工具](https://www.fly63.com/tool/htmarkdown/)
+
 #### HTTP 协议相关
 
 * [HTTP 请求方法对照表](http://tools.jb51.net/table/http_request_method)
@@ -290,8 +322,6 @@
 
 #### macOs 软件下载
 
-* [MacWk](https://www.macwk.com/)
-
 * [马可菠萝](https://www.macbl.com/)
 
 * [未来 Mac 下载](https://mac.orsoon.com/)
@@ -301,6 +331,8 @@
 * [麦氪派](https://www.waitsun.com/topics/os)
 
 * [潘多拉盒子](https://www.inpandora.com/)
+
+* [MacApp分享频道](https://macapp.org.cn/)
 
 #### 图片在线压缩
 
@@ -390,7 +422,7 @@
 
     * [Material Design Palette](https://www.materialpalette.com/purple/lime)
 
-    * [ShutterStock - 调色板](https://www.shutterstock.com/zh/colors)
+    * [ShutterStock - 调色板（需要翻墙）](https://www.shutterstock.com/zh/colors)
 
 * 字体
 
