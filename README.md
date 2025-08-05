@@ -82,6 +82,8 @@
 
     * [Android Studio 最新预览版下载](https://developer.android.google.cn/studio/preview)
 
+    * [Android Studio 各个版本的更新介绍](https://developer.android.google.cn/studio/releases/past-releases)
+
     * [AndroidDevTools - Android Studio 下载](https://www.androiddevtools.cn/android-studio.html)
 
     * Android Studio 历史版本下载（下面两个链接要结合起来用）
