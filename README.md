@@ -28,19 +28,27 @@
 
     * [Github 相关](#github-相关)
 
+    * [搜索引擎](#搜索引擎)
+
     * [翻译网站](#翻译网站)
 
     * [日常开发实用网站](#日常开发实用网站)
 
+    * [视频下载网站](#视频下载网站)
+
     * [HTTP 协议文档](#http-协议文档)
 
     * [macOs 软件下载](#macos-软件下载)
+
+    * [Chrome 插件下载](#chrome-插件下载)
 
     * [文件转换网站](#文件转换网站)
 
     * [图片处理网站](#图片处理网站)
 
     * [素材资源下载](#素材资源下载)
+
+    * [隐私协议在线生成](#隐私协议在线生成)
 
 ## Android 相关
 
@@ -53,10 +61,6 @@
     * [Android Code Search - AndroidX 项目（需要翻墙）](https://cs.android.com/androidx)
 
     * [Android Code Search - Android Studio 项目（需要翻墙）](https://cs.android.com/android-studio)
-
-* [AOSPXRef（Android 7.1.2 - Android 13）](http://aospxref.com/)
-
-* [AndroidXRef（Android 1.6 - Android 9.0）](http://androidxref.com/)
 
 * [Android 社区（Android 1.6 - Android 10）](https://www.androidos.net.cn/sourcecode)
 
@@ -78,9 +82,19 @@
 
     * [Android Studio 最新预览版下载](https://developer.android.google.cn/studio/preview)
 
-    * [Android Studio 历史版本下载](https://developer.android.google.cn/studio/archive.html#android-studio)
-
     * [AndroidDevTools - Android Studio 下载](https://www.androiddevtools.cn/android-studio.html)
+
+    * Android Studio 历史版本下载（下面两个链接要结合起来用）
+
+        * [Android Studio 各个版本信息表](https://plugins.jetbrains.com/docs/intellij/android-studio-releases-list.html)
+
+        * [Android Studio 各个版本下载地址](https://jb.gg/android-studio-releases-list.json)
+
+* JDK
+
+    * [Oracle JDK 存档](https://www.oracle.com/java/technologies/downloads/archive/)
+
+    * [OpenJDK 存档](https://jdk.java.net/archive/)
 
 * NDK
 
@@ -96,19 +110,39 @@
 
     * [Android Gradle 插件和 Android Studio 兼容性](https://developer.android.google.cn/studio/releases/gradle-plugin#android_gradle_plugin_and_android_studio_compatibility)
 
+    * [Java JDK 和 Gradle 兼容对应表](https://docs.gradle.org/current/userguide/compatibility.html)
+
 #### Android 云测平台
 
-* [OPPO 云测平台](https://open.oppomobile.com/cloudmachine/device/list-plus)
+* 免费
 
-* [华为云测平台](https://cn.devecostudio.huawei.com/console/testservice/remote)
+    * [小米云测平台](https://testit.miui.com/remote)
 
-* [三星远程开发测试平台（国内版）](http://samsung.smarterapps.cn/index.php)
+    * [OPPO/一加 云测平台](https://open.oppomobile.com/octpcloud/octpcloud/index.html)
 
-* [三星远程开发测试平台（国际版）](https://developer.samsung.com/remote-test-lab)
+    * [华为云测平台](https://developer.huawei.com/consumer/cn/agconnect/cloud-adjust/)
 
-* [vivo 云测平台（需要企业开发者）](https://vcl.vivo.com.cn/#/machine/picking)
+    * [荣耀云测平台](https://developer.honor.com/en/doc/guides/100196)
 
-* [小米云测平台（需要企业开发者）](https://testit.miui.com/remote)
+    * [三星远程开发测试平台（国内版）](https://support-cn.samsung.com/App/DeveloperChina/Static/rdtp)
+
+    * [三星远程开发测试平台（国际版）](https://developer.samsung.com/remote-test-lab)
+
+    * [vivo 云测平台（需要企业开发者）](https://dev.vivo.com.cn/promote/cloudTest)
+
+* 收费
+
+    * [腾讯云手机-云真机测试-腾讯WeTest](https://wetest.qq.com/products/cloud-phone)
+
+    * [Unity 云真机服务平台](https://device.unity.cn/)
+
+    * [远程真机调试-泽众云真机](https://www.alltesting.cn/jsp/newVersion2/CloudTesting/cindex.jsp)
+
+    * [百度移动云测试中心 | MTC](https://mtc.baidu.com/#phone)
+
+    * [优测云真机](https://utest.21kunpeng.com/home/cloudphone)
+
+    * [Testin 云测平台](https://www.testin.cn/)
 
 #### Google 应用商店代下载
 
@@ -142,6 +176,8 @@
 
 * [AndroidTips](https://github.com/johncaijing/AndroidTips)
 
+* [LearningNotes](https://github.com/francistao/LearningNotes)
+
 #### Android 社区网站
 
 * [掘金](https://juejin.cn/android)
@@ -161,8 +197,6 @@
 * [阳光沙滩](https://www.sunofbeach.net/)
 
 * [泡网](https://paonet.com/t/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91)
-
-* [小绿人](http://www.androidcup.com/index.php/tags/)
 
 #### Android 优秀个人技术博客
 
@@ -272,6 +306,18 @@
 
 * [Github Repository PK](https://githubpk.com/pk-repos)
 
+#### 搜索引擎
+
+* [Google（需要翻墙）](https://www.google.com)
+
+* [必应](https://www.bing.com/?mkt=zh-CN)
+
+* [无追搜索](https://www.wuzhuiso.com)
+
+* [百度](https://www.baidu.com)
+
+* [360 搜索](https://www.so.com/?src=so.com)
+
 #### 翻译网站
 
 * [Google 翻译（需要翻墙）](https://translate.google.com.hk/?hl=zh-CN)
@@ -286,11 +332,13 @@
 
 * [360 翻译](https://fanyi.so.com/)
 
-* [CNKI 翻译助手](https://dict.cnki.net/index)
-
-* [迅捷 PDF 转换器 - 在线翻译句子和文字](https://app.xunjiepdf.com/linefanyi/)
-
 #### 日常开发实用网站
+
+* 英文大小写转换
+
+    * [英文字母大小写转换 - 蛙蛙工具](https://www.iamwawa.cn/daxiaoxie.html)
+
+    * [试试吧 - 英文字母大小写转换](https://try8.cn/tool/unit/letter)
 
 * Json / Xml 格式化
 
@@ -312,6 +360,20 @@
 
     * [JSON 在线 - JSON/XML 互转](https://www.sojson.com/json2xml/)
 
+* Java / Kotlin 代码互转
+
+    * Converter
+
+        * [Java 转 Kotlin - Converter](https://www.codeconvert.ai/java-to-kotlin-converter)
+
+        * [Kotlin 转 Java - Converter](https://www.codeconvert.ai/kotlin-to-java-converter)
+
+    * RunJS（需要登录才能使用）
+
+        * [Java 转 Kotlin - RunJS](https://runjs.work/code-converter/java-to-kotlin)
+
+        * [Kotlin 转 Java - RunJS](https://runjs.work/code-converter/kotlin-to-java)
+
 * Java / Kotlin 在线运行
 
     * [菜鸟工具 - Java 在线运行工具](https://c.runoob.com/compile/10/)
@@ -325,8 +387,6 @@
     * [CompileJava - main.java](https://www.compilejava.net/)
 
     * [Browxy - Online IDE and Compiler](https://www.browxy.com/)
-
-    * [在线工具 - 各个语言代码在线运行](https://tool.lu/coderunner/)
 
 * 二维码生成
 
@@ -358,10 +418,6 @@
 
         * [简忆工具箱 - MD5 在线加密工具](https://www.tpxhm.top/md5)
 
-        * [ToolsBaby - MD5在线加密](https://www.tools.baby/md5/)
-
-        * [KU51.net - MD5在线加密](http://www.ku51.net/md5/)
-
         * [jsons.cn - MD5在线加密](http://www.jsons.cn/md5/s/)
 
     * 支持破解
@@ -371,8 +427,6 @@
         * [CMD5 - md5在线解密破解](https://www.cmd5.com/)
 
         * [PMD5 - md5解密](https://pmd5.com/)
-
-        * [MD5.My-Addr.com - md5 decrypt](http://md5.my-addr.com/md5_decrypt-md5_cracker_online/md5_decoder_tool.php)
 
         * [MD5 Center - MD5 conversion and MD5 reverse lookup](https://md5.gromweb.com/)
 
@@ -420,25 +474,61 @@
 
     * [试试吧 - AES 加密/解密](https://try8.cn/tool/cipher/aes)
 
-    * [拉米工具 - 在线 AES 加密解密](https://tool.lmeee.com/jiami/aes)
+* 正则表达式在线测试
+
+    * [菜鸟工具 - 正则表达式在线测试](https://c.runoob.com/front-end/854/)
+
+    * [GoRegex.cn - 正则表达式在线测试、生成、解析工具](https://goregex.cn/)
+
+    * [正则表达式在线测试工具](http://www.regexp.cn/Regex)
+
+    * [OSCHINA - 在线正则表达式测试](https://tool.oschina.net/regex/)
+
+    * [站长工具 - 正则表达式在线测试](https://tool.chinaz.com/regex)
+
+    * [RegExr - 学习、构建 和 测试 正则表达式 Test RegEx](https://regexr-cn.com/)
+
+* ASCII 在线转换工具
+
+    * [OSCHINA - Native/ASCII在线编码转换](https://tool.oschina.net/encode?type=3)
+
+    * [Jsons - Ascii 转中文字符、中文转Ascii编码](http://www.jsons.cn/ascii/)
+
+    * [Json 在线工具箱 - ASCII 在线转换器](https://www.sojson.com/ascii.html)
+
+    * [MaTools - 在线 ASCII 编码解码](https://www.matools.com/code-convert-ascii)
+
+    * [BeJSON - native/ascii在线转换工具](https://www.bejson.com/convert/nativeascii/)
+
+    * [在线懒人工具 - ascii 在线转换器](http://m.ab173.com/gongju/convert/ascii.php)
+
+* 文件 md5 在线计算
+
+    * [文件md5在线计算 - 在线工具](http://www.metools.info/other/o21.html)
+
+    * [在线文件MD5码校验验证工具 - 快速计算检测文件md5值](https://www.md5ma.com/md5-calculator)
+
+    * [MD5文件在线计算 - StrErr.com](https://www.strerr.com/cn/md5_file.html)
 
 * 其他工具
 
-    * [Parsevideo - 免费在线视频解析下载网站](https://www.parsevideo.com/)
+    * [html 转 md 工具](https://github.com/helloworld-Co/html2md)
 
     * [txttool - 在线字数统计](http://www.txttool.com/t/?id=MzI0)
 
     * [千博网络 - 在线文本比较工具](https://www.qianbo.com.cn/Tool/Text-Difference/)
 
-    * [菜鸟工具 - 正则表达式在线测试](https://c.runoob.com/front-end/854/)
-
     * [试试吧 - 时间戳转日期工具](https://try8.cn/tool/time/convert)
-
-    * [试试吧 - 英文字母大小写转换](https://try8.cn/tool/unit/letter)
 
     * [试试吧 - 人民币大写在线转换工具](https://try8.cn/tool/unit/rmb)
 
-    * [Jsons - Unicode/ASCII：编码互转](http://www.jsons.cn/unicode)
+#### 视频下载网站
+
+* [ParseVideo - 免费在线视频解析下载网站](https://www.parsevideo.com/)
+
+* [VideoFk - 在线视频下载](https://www.videofk.com)
+
+* [TWDown - Video Downloader](https://downloader.twdown.online)
 
 #### HTTP 协议文档
 
@@ -452,9 +542,15 @@
 
 #### macOs 软件下载
 
+* [MacWk.com](https://www.macwk.com/)
+
+* [MacWk.cn](https://macwk.cn/)
+
 * [马可菠萝](https://www.macbl.com/)
 
 * [麦氪派](https://www.waitsun.com/topics/os)
+
+* [黑苹果软件](https://heipg.cn/apps)
 
 * [XClient](https://xclient.info/s/)
 
@@ -462,7 +558,7 @@
 
 * [Digit77.com](https://www.digit77.com/macapps/)
 
-* [MacYY](https://www.macyy.cn/)
+* [元婴 MAC 软件站](https://maczz.net/)
 
 * [腾讯柠檬精选](https://lemon.qq.com/lab/)
 
@@ -474,21 +570,37 @@
 
 * [玩机手册](https://www.rjsos.com/mac)
 
-* [潘多拉盒子](https://www.inpandora.com/)
+* [苹果系统之家](https://macoshome.com/app)
 
-* [未来 Mac 下载](https://mac.orsoon.com?id=MTI5MjQ1Nw%3D%3D)
+* [MacKed](https://macked.app/)
+
+* [佛系软件](https://foxirj.com/)
+
+* [未来 Mac 下载](https://mac.macxz.com?id=MTI5MjQ1Nw%3D%3D)
+
+#### Chrome 插件下载
+
+* [Chrome 应用商店（需要翻墙）](https://chrome.google.com/webstore/category/extensions?hl=zh-CN)
+
+* [Crx搜搜](https://www.crxsoso.com/)
+
+* [极简插件](https://chrome.zzzmh.cn/)
+
+* [CrxDL](https://crxdl.com/)
+
+* [crx4chrome](https://www.crx4chrome.com/)
 
 #### 文件转换网站
 
 * 图片/pdf 转成 word
 
-    * [TinyWow - pdf 转 word（免费）](https://tinywow.com/pdf/to-word)
+    * [迅捷 PDF 转换器 - 图片转 Word](https://app.xunjiepdf.com/img2word/)
 
     * [Convertio - 在线文档文件转换器](https://convertio.co/zh/document-converter/)
 
-    * [迅捷 PDF 转换器 - PDF 转 Word](https://app.xunjiepdf.com/pdf2word/)
+    * [TinyWow - pdf 转 word（免费）](https://tinywow.com/pdf/to-word)
 
-    * [迅捷 PDF 转换器 - 图片转 Word](https://app.xunjiepdf.com/img2word/)
+    * [迅捷 PDF 转换器 - PDF 转 Word](https://app.xunjiepdf.com/pdf2word/)
 
     * [改图鸭 - 在线图片转 PDF](https://www.gaituya.com/pdf/)
 
@@ -534,11 +646,23 @@
 
     * [svg 在线转 xml](http://inloop.github.io/svg2android/)
 
-    * [PNG 在线转 SVG](https://www.pngtosvg.com/)
+    * [onlineconvertfree - 在线转换 png 文件格式](https://onlineconvertfree.com/zh/convert/png)
+
+    * [C 丁钾米 - PNG 转 SVG](https://cdkm.com/cn/png-to-svg)
+
+    * [ASPOSE - PNG 至 SVG 在线转换器](https://products.aspose.app/pdf/zh/conversion/png-to-svg)
+
+    * [LZL 在线工具 - 免费在线批量 jpg,png,gif,icon 等图片转svg](http://www.lzltool.com/image2svg)
+
+    * [PNG.to - png 转 svg](https://png.to/svg/?lang=zh)
+
+    * [SVG Converter - PNG 转 SVG](https://svgconverter.com/zh/png-to-svg)
+
+    * [PNG to SVG - PNG 转 SVG](https://png2svg.com/zh)
+
+    * [PngToSvg - JPG PNG 转 SVG](https://www.pngtosvg.com)
 
 * 其他
-
-    * [文件 md5 在线计算](http://www.metools.info/other/o21.html)
 
     * [Html MarkDown 互转工具](https://www.fly63.com/tool/htmarkdown/)
 
@@ -562,11 +686,15 @@
 
 * 图片去除/更换背景
 
+    * [PhotoRoom - Background remover](https://www.photoroom.com/background-remover)
+
     * [RemoveBg](https://www.remove.bg/zh)
 
     * [BgEraser - 去除照片背景](https://bgeraser.com/)
 
     * [BgEraser - 去除照片中的对象](https://bgeraser.com/)
+
+    * [ARC官网 - 人像抠图](https://arc.tencent.com/zh/ai-demos/humansegmentation)
 
     * [改图鸭 - 抠图换背景](https://www.gaituya.com/koutu/)
 
@@ -596,7 +724,7 @@
 
 * 对图片进行旋转/翻转
 
-     * [TinyWow - 图片翻转器](https://tinywow.com/image/flip)
+    * [TinyWow - 图片翻转器](https://tinywow.com/image/flip)
 
     * [改图鸭 - 图片旋转](https://www.gaituya.com/xuanzhuan/)
 
@@ -636,13 +764,13 @@
 
     * 矢量图标
 
-        * [ICONS8 - 矢量图在线编辑](https://icons8.com/iconizer)
+        * [IconFinder - Icons](https://www.iconfinder.com/icons)
+
+        * [ICONS8 - 图标搜索](https://icons8.com/icons)
 
         * [IconFont - 阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
         * [FlatIcon - Interface icons](https://www.flaticon.com/uicons/interface-icons)
-
-        * [IconFinder - Icons](https://www.iconfinder.com/icons)
 
         * [ByteDance IconPark - 图标库](https://iconpark.oceanengine.com/official)
 
@@ -650,9 +778,9 @@
 
         * [设计小咖 - 免费图标库](https://www.iamxk.com/fonts/0-0-8-1.html)
 
-        * [ManyPixels - free icons](https://www.manypixels.co/free-icons)
+        * [ManyPixels - Free to Use Clip Art Images & Vector Illustrations](https://www.manypixels.co/gallery)
 
-        * [DrawKit - ICONS](https://drawkit.com/free-icons)
+        * [DrawKit - ICONS](https://www.drawkit.com/illustration-types/icons)
 
     * 普通图标库
 
@@ -668,9 +796,7 @@
 
     * svga
 
-        * [SVGA 在线预览1](https://svga.s-y.ren/)
-
-        * [SVGA 在线预览2](https://svga.io/svga-preview.html)
+        * [SVGA 在线预览](https://svga.s-y.ren/)
 
     * lottie
 
@@ -712,6 +838,10 @@
 
 * 调色板
 
+    * [HTML 颜色代码选择器](https://htmlcolorcodes.com/zh/)
+
+    * [Material Theme Builder](https://m3.material.io/theme-builder#/custom)
+
     * [Material Design Palette](https://www.materialpalette.com/purple/lime)
 
     * [ShutterStock - 调色板（需要翻墙）](https://www.shutterstock.com/zh/colors)
@@ -721,6 +851,22 @@
     * [IconFont - 阿里巴巴字体库](https://www.iconfont.cn/fonts/index)
 
     * [设计小咖 - 字体库](https://www.iamxk.com/fonts/0-0-8-1.html)
+
+#### 隐私协议在线生成
+
+* [开发工具箱 - 隐私政策生成](https://toolbox.yolo.blue/#/privacy-policy)
+
+* [网站隐私政策模板 - 免费的隐私政策模板生成器](https://www.shopify.com/zh/tools/policy-generator)
+
+* [应用隐私政策生成器](https://app.mukapp.top/ppg/)
+
+* [隐私政策生成 | 工具箱](https://toolbox.yolo.blue/privacy-policy-gen)
+
+* [Useotools - 隐私政策生成器](https://www.useotools.com/zh/privacy-policy-generator)
+
+* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+
+* [Free Privacy Policy Generator - TermsFeed](https://www.termsfeed.com/privacy-policy-generator/)
 
 #### 作者的其他开源项目
 
@@ -736,15 +882,19 @@
 
 * 标题栏框架：[TitleBar](https://github.com/getActivity/TitleBar) ![](https://img.shields.io/github/stars/getActivity/TitleBar.svg) ![](https://img.shields.io/github/forks/getActivity/TitleBar.svg)
 
-* 悬浮窗框架：[XToast](https://github.com/getActivity/XToast) ![](https://img.shields.io/github/stars/getActivity/XToast.svg) ![](https://img.shields.io/github/forks/getActivity/XToast.svg)
+* 悬浮窗框架：[EasyWindow](https://github.com/getActivity/EasyWindow) ![](https://img.shields.io/github/stars/getActivity/EasyWindow.svg) ![](https://img.shields.io/github/forks/getActivity/EasyWindow.svg)
 
-* Shape 框架：[ShapeView](https://github.com/getActivity/ShapeView) ![](https://img.shields.io/github/stars/getActivity/ShapeView.svg) ![](https://img.shields.io/github/forks/getActivity/ShapeView.svg)
+* ShapeView 框架：[ShapeView](https://github.com/getActivity/ShapeView) ![](https://img.shields.io/github/stars/getActivity/ShapeView.svg) ![](https://img.shields.io/github/forks/getActivity/ShapeView.svg)
+
+* ShapeDrawable 框架：[ShapeDrawable](https://github.com/getActivity/ShapeDrawable) ![](https://img.shields.io/github/stars/getActivity/ShapeDrawable.svg) ![](https://img.shields.io/github/forks/getActivity/ShapeDrawable.svg)
 
 * 语种切换框架：[MultiLanguages](https://github.com/getActivity/MultiLanguages) ![](https://img.shields.io/github/stars/getActivity/MultiLanguages.svg) ![](https://img.shields.io/github/forks/getActivity/MultiLanguages.svg)
 
 * Gson 解析容错：[GsonFactory](https://github.com/getActivity/GsonFactory) ![](https://img.shields.io/github/stars/getActivity/GsonFactory.svg) ![](https://img.shields.io/github/forks/getActivity/GsonFactory.svg)
 
 * 日志查看框架：[Logcat](https://github.com/getActivity/Logcat) ![](https://img.shields.io/github/stars/getActivity/Logcat.svg) ![](https://img.shields.io/github/forks/getActivity/Logcat.svg)
+
+* 嵌套滚动布局框架：[NestedScrollLayout](https://github.com/getActivity/NestedScrollLayout) ![](https://img.shields.io/github/stars/getActivity/NestedScrollLayout.svg) ![](https://img.shields.io/github/forks/getActivity/NestedScrollLayout.svg)
 
 * Android 版本适配：[AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) ![](https://img.shields.io/github/stars/getActivity/AndroidVersionAdapter.svg) ![](https://img.shields.io/github/forks/getActivity/AndroidVersionAdapter.svg)
 
@@ -758,17 +908,17 @@
 
 * 省市区 Json 数据：[ProvinceJson](https://github.com/getActivity/ProvinceJson) ![](https://img.shields.io/github/stars/getActivity/ProvinceJson.svg) ![](https://img.shields.io/github/forks/getActivity/ProvinceJson.svg)
 
+* Markdown 语法文档：[MarkdownDoc](https://github.com/getActivity/MarkdownDoc) ![](https://img.shields.io/github/stars/getActivity/MarkdownDoc.svg) ![](https://img.shields.io/github/forks/getActivity/MarkdownDoc.svg)
+
 #### 微信公众号：Android轮子哥
 
 ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/official_ccount.png)
 
 #### Android 技术 Q 群：10047167
 
-#### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
+#### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:（[点击查看捐赠列表](https://github.com/getActivity/Donate)）
 
 ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_ali.png) ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_wechat.png)
-
-#### [点击查看捐赠列表](https://github.com/getActivity/Donate)
 
 ## License
 
