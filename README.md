@@ -116,11 +116,11 @@
 
 #### Android 云测平台
 
-* 免费
+* 厂商
 
     * [小米云测平台](https://testit.miui.com/remote)
 
-    * [OPPO/一加 云测平台](https://open.oppomobile.com/octpcloud/octpcloud/index.html)
+    * [OPPO/一加云测平台](https://open.oppomobile.com/octpcloud/octpcloud/index.html)
 
     * [华为云测平台](https://developer.huawei.com/consumer/cn/agconnect/cloud-adjust/)
 
@@ -132,7 +132,7 @@
 
     * [vivo 云测平台（需要企业开发者）](https://dev.vivo.com.cn/promote/cloudTest)
 
-* 收费
+* 第三方
 
     * [腾讯云手机-云真机测试-腾讯WeTest](https://wetest.qq.com/products/cloud-phone)
 
