@@ -526,6 +526,8 @@
 
 #### 视频下载网站
 
+* [DataTool - 适用于任何网站的快速视频下载器](https://www.datatool.vip/)
+
 * [ParseVideo - 免费在线视频解析下载网站](https://www.parsevideo.com/)
 
 * [VideoFk - 在线视频下载](https://www.videofk.com)
