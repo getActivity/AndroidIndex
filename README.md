@@ -676,6 +676,18 @@
 
 #### 图片处理网站
 
+* 更换图片颜色
+
+    * [宇智科技 - 在线图片颜色替换](https://www.quan2go.com/image/remove-color/)
+
+    * [Photoroom - 更改图片颜色 I 轻松、快速、免费](https://www.photoroom.com/zh/tools/change-color-image)
+
+    * [PhotoKit.com - 改变图像的颜色](https://photokit.com/features/change-color-of-image/?lang=zh)
+
+    * [BatchTools.pro - 在线替换图像中的颜色](https://batchtools.pro/zh/changecolors/replace)
+
+    * [LZL在线工具 - 在线修改图片颜色、图片调色](https://www.lzltool.com/Toolkit/ChangePngColor)
+
 * 图片大小压缩
 
     * [TinyPng](https://tinypng.com/)
