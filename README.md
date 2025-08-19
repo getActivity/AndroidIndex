@@ -120,7 +120,7 @@
 
     * [小米云测平台](https://testit.miui.com/remote)
 
-    * [OPPO/一加云测平台](https://open.oppomobile.com/octpcloud/octpcloud/index.html)
+    * [OPPO/一加/真我云测平台](https://open.oppomobile.com/octpcloud/octpcloud/index.html)
 
     * [华为云测平台](https://developer.huawei.com/consumer/cn/agconnect/cloud-adjust/)
 
