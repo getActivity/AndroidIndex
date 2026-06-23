@@ -608,6 +608,8 @@
 
 #### macOs 软件下载
 
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+
 * [MacWk.com](https://www.macwk.com/)
 
 * [MacWk.cn](https://macwk.cn/)
